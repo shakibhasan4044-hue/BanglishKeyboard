@@ -1,0 +1,4 @@
+<input-method xmlns:android="http://schemas.android.com/apk/res/android">
+    <subtype android:label="বাংলা → Banglish" android:imeSubtypeLocale="bn_BD"
+        android:imeSubtypeMode="keyboard" />
+</input-method>
